@@ -11,3 +11,4 @@ public class Kata {
         System.out.println(person.getName() + " tiene " + person.getAge() + " años");
     }
 }
+
